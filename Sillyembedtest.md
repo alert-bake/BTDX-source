@@ -89,37 +89,37 @@ All 11 frames in the order listed by `Blue_Bloon_Spr.yy`. Labels are intentional
 ### Frame 01
 
 ![Blue Bloon frame 01](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/0c9f13ec-5002-4bfb-bd58-9969a58dabd6.png)
-
+Normal
 [Source PNG](sprites/Blue_Bloon_Spr/0c9f13ec-5002-4bfb-bd58-9969a58dabd6.png)
 
 ### Frame 02
 
 ![Blue Bloon frame 02](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/99ea1dd4-13d4-45b3-987e-ec90aee65c4f.png)
-
+same as what reds was
 [Source PNG](sprites/Blue_Bloon_Spr/99ea1dd4-13d4-45b3-987e-ec90aee65c4f.png)
 
 ### Frame 03
 
 ![Blue Bloon frame 03](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/cc38418c-6ae3-48e2-8cd7-ab57883681c6.png)
-
+same
 [Source PNG](sprites/Blue_Bloon_Spr/cc38418c-6ae3-48e2-8cd7-ab57883681c6.png)
 
 ### Frame 04
 
 ![Blue Bloon frame 04](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/0e1c4333-1aff-42da-9e6a-72044a997e43.png)
-
+same
 [Source PNG](sprites/Blue_Bloon_Spr/0e1c4333-1aff-42da-9e6a-72044a997e43.png)
 
 ### Frame 05
 
 ![Blue Bloon frame 05](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/be9e8dc9-5e41-433a-b3db-84f8b250fbff.png)
-
+same
 [Source PNG](sprites/Blue_Bloon_Spr/be9e8dc9-5e41-433a-b3db-84f8b250fbff.png)
 
 ### Frame 06
 
 ![Blue Bloon frame 06](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/fe7f1dad-d02e-4fa3-80fe-a7dc4e3c8ed0.png)
-
+same
 [Source PNG](sprites/Blue_Bloon_Spr/fe7f1dad-d02e-4fa3-80fe-a7dc4e3c8ed0.png)
 
 ### Frame 07
@@ -143,7 +143,7 @@ All 11 frames in the order listed by `Blue_Bloon_Spr.yy`. Labels are intentional
 ### Frame 10
 
 ![Blue Bloon frame 10](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/7df96864-8c84-4f09-984b-ddce1f9859ae.png)
-
+wretched Bloon that looks like red10 but for blue I hate that I don't know this guy.
 [Source PNG](sprites/Blue_Bloon_Spr/7df96864-8c84-4f09-984b-ddce1f9859ae.png)
 
 ### Frame 11
@@ -152,7 +152,7 @@ All 11 frames in the order listed by `Blue_Bloon_Spr.yy`. Labels are intentional
 
 [Source PNG](sprites/Blue_Bloon_Spr/22015373-ddcb-4cf3-87d8-4c361ef78fd5.png)
 
-
+all fo them were same except no ditto blue also green is same.
 ## Green Bloon
 
 All 11 frames in the order listed by `Green_Bloon_Spr.yy`. Labels are intentionally blank for identification.
