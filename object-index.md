@@ -7,7 +7,7 @@ A system-oriented entry point for navigating the BTDX source archive. This is a 
 | Investigation | Start here |
 |---|---|
 | Bloon health, layers and properties | [Bloon](objects/Bloon/), [Normal](objects/Normal/), [Camo](objects/Camo/), [Lead](objects/Lead/), [Shield](objects/Shield/) |
-| MOAB-class enemies | [Moab](objects/Moab/), [Moab_Branch](objects/Moab_Branch/), [BFB](objects/BFB/), [ZOMG](objects/ZOMG/), [BAD](objects/BAD/) |
+| MOAB-class enemies | [Moab](objects/Moab/), [Moab_Branch](objects/Moab_Branch/), [BFB](objects/BFB/), [ZOMG](objects/Zomg/), [BAD](objects/obj_BAD/) |
 | Bloon spawning and paths | [BloonSpawn](objects/BloonSpawn/), [BloonPath](objects/BloonPath/), [Path](objects/Path/) |
 | Tower base behavior | [Monkey](objects/Monkey/), [Projectile_Master](objects/Projectile_Master/), [scripts/scr_tower_setup](scripts/scr_tower_setup/) |
 | Projectile behavior | [Projectile](objects/Projectile/), [Projectile_Master](objects/Projectile_Master/), [Dart_Shot](objects/Dart_Shot/), [Bomb](objects/Bomb/) |
@@ -43,7 +43,7 @@ Some projectiles and visual resources are shared across towers and intentionally
 - [Bloon](objects/Bloon/) — base bloon object; inspect its `.yy` metadata and inherited events first.
 - [Normal](objects/Normal/), [Camo](objects/Camo/), [Lead](objects/Lead/), [Shield](objects/Shield/) — subtype objects used by the bloon system and tower targeting.
 - [Moab](objects/Moab/) and [Moab_Branch](objects/Moab_Branch/) — MOAB-class object logic; compare Create and Step events when tracing shell/layer behavior.
-- [BFB](objects/BFB/), [ZOMG](objects/ZOMG/), [BAD](objects/BAD/) — named MOAB-class enemy families; inspect their metadata and parent chain rather than assuming they implement all behavior locally.
+- [BFB](objects/BFB/), [ZOMG](objects/Zomg/), [BAD](objects/obj_BAD/) — named MOAB-class enemy families; inspect their metadata and parent chain rather than assuming they implement all behavior locally.
 - [BloonSpawn](objects/BloonSpawn/) and [BloonPath](objects/BloonPath/) — useful starting points for spawn/path investigations.
 
 ## Towers, targeting and projectiles
