@@ -80,17 +80,150 @@ Glued
 Looks like Normal idk
 [Source PNG](sprites/Red_Bloon_Spr/0e6f808d-1af1-479e-b9fa-e8ea72bdabef.png)
 
+
+
 ## Blue Bloon
 
-![Blue Bloon](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/0c9f13ec-5002-4bfb-bd58-9969a58dabd6.png)
+All 11 frames in the order listed by `Blue_Bloon_Spr.yy`. Labels are intentionally blank for identification.
 
-Source: [sprites/Blue_Bloon_Spr/0c9f13ec-5002-4bfb-bd58-9969a58dabd6.png](sprites/Blue_Bloon_Spr/0c9f13ec-5002-4bfb-bd58-9969a58dabd6.png) · 11 animation frames in the sprite metadata.
+### Frame 01
+
+![Blue Bloon frame 01](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/0c9f13ec-5002-4bfb-bd58-9969a58dabd6.png)
+
+[Source PNG](sprites/Blue_Bloon_Spr/0c9f13ec-5002-4bfb-bd58-9969a58dabd6.png)
+
+### Frame 02
+
+![Blue Bloon frame 02](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/99ea1dd4-13d4-45b3-987e-ec90aee65c4f.png)
+
+[Source PNG](sprites/Blue_Bloon_Spr/99ea1dd4-13d4-45b3-987e-ec90aee65c4f.png)
+
+### Frame 03
+
+![Blue Bloon frame 03](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/cc38418c-6ae3-48e2-8cd7-ab57883681c6.png)
+
+[Source PNG](sprites/Blue_Bloon_Spr/cc38418c-6ae3-48e2-8cd7-ab57883681c6.png)
+
+### Frame 04
+
+![Blue Bloon frame 04](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/0e1c4333-1aff-42da-9e6a-72044a997e43.png)
+
+[Source PNG](sprites/Blue_Bloon_Spr/0e1c4333-1aff-42da-9e6a-72044a997e43.png)
+
+### Frame 05
+
+![Blue Bloon frame 05](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/be9e8dc9-5e41-433a-b3db-84f8b250fbff.png)
+
+[Source PNG](sprites/Blue_Bloon_Spr/be9e8dc9-5e41-433a-b3db-84f8b250fbff.png)
+
+### Frame 06
+
+![Blue Bloon frame 06](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/fe7f1dad-d02e-4fa3-80fe-a7dc4e3c8ed0.png)
+
+[Source PNG](sprites/Blue_Bloon_Spr/fe7f1dad-d02e-4fa3-80fe-a7dc4e3c8ed0.png)
+
+### Frame 07
+
+![Blue Bloon frame 07](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/b81e4756-3a04-45c3-abfb-ff824fc43663.png)
+
+[Source PNG](sprites/Blue_Bloon_Spr/b81e4756-3a04-45c3-abfb-ff824fc43663.png)
+
+### Frame 08
+
+![Blue Bloon frame 08](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/3d9ed5f3-a06a-40fb-87b0-2d07e7f72eb1.png)
+
+[Source PNG](sprites/Blue_Bloon_Spr/3d9ed5f3-a06a-40fb-87b0-2d07e7f72eb1.png)
+
+### Frame 09
+
+![Blue Bloon frame 09](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/3bd20109-ff5d-4dbd-9f8a-73a7d5f9d61c.png)
+
+[Source PNG](sprites/Blue_Bloon_Spr/3bd20109-ff5d-4dbd-9f8a-73a7d5f9d61c.png)
+
+### Frame 10
+
+![Blue Bloon frame 10](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/7df96864-8c84-4f09-984b-ddce1f9859ae.png)
+
+[Source PNG](sprites/Blue_Bloon_Spr/7df96864-8c84-4f09-984b-ddce1f9859ae.png)
+
+### Frame 11
+
+![Blue Bloon frame 11](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Blue_Bloon_Spr/22015373-ddcb-4cf3-87d8-4c361ef78fd5.png)
+
+[Source PNG](sprites/Blue_Bloon_Spr/22015373-ddcb-4cf3-87d8-4c361ef78fd5.png)
+
 
 ## Green Bloon
 
-![Green Bloon](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Green_Bloon_Spr/db52aef9-7b07-4161-964b-6536b2cd8ca5.png)
+All 11 frames in the order listed by `Green_Bloon_Spr.yy`. Labels are intentionally blank for identification.
 
-Source: [sprites/Green_Bloon_Spr/db52aef9-7b07-4161-964b-6536b2cd8ca5.png](sprites/Green_Bloon_Spr/db52aef9-7b07-4161-964b-6536b2cd8ca5.png) · 11 animation frames in the sprite metadata.
+### Frame 01
+
+![Green Bloon frame 01](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Green_Bloon_Spr/db52aef9-7b07-4161-964b-6536b2cd8ca5.png)
+
+[Source PNG](sprites/Green_Bloon_Spr/db52aef9-7b07-4161-964b-6536b2cd8ca5.png)
+
+### Frame 02
+
+![Green Bloon frame 02](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Green_Bloon_Spr/afe6327d-55ee-49b7-9281-94f230dbce7e.png)
+
+[Source PNG](sprites/Green_Bloon_Spr/afe6327d-55ee-49b7-9281-94f230dbce7e.png)
+
+### Frame 03
+
+![Green Bloon frame 03](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Green_Bloon_Spr/52bb205b-759d-42ed-ab32-b458e3b17204.png)
+
+[Source PNG](sprites/Green_Bloon_Spr/52bb205b-759d-42ed-ab32-b458e3b17204.png)
+
+### Frame 04
+
+![Green Bloon frame 04](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Green_Bloon_Spr/baeef99b-84cf-4e43-8bff-f09481a1849b.png)
+
+[Source PNG](sprites/Green_Bloon_Spr/baeef99b-84cf-4e43-8bff-f09481a1849b.png)
+
+### Frame 05
+
+![Green Bloon frame 05](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Green_Bloon_Spr/9bb0ac03-4914-4769-9af2-86915cd52dd6.png)
+
+[Source PNG](sprites/Green_Bloon_Spr/9bb0ac03-4914-4769-9af2-86915cd52dd6.png)
+
+### Frame 06
+
+![Green Bloon frame 06](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Green_Bloon_Spr/46abbbaa-4b10-45ed-9a81-e10b4dc907f1.png)
+
+[Source PNG](sprites/Green_Bloon_Spr/46abbbaa-4b10-45ed-9a81-e10b4dc907f1.png)
+
+### Frame 07
+
+![Green Bloon frame 07](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Green_Bloon_Spr/4766cc7a-5222-4696-9442-3966081fd356.png)
+
+[Source PNG](sprites/Green_Bloon_Spr/4766cc7a-5222-4696-9442-3966081fd356.png)
+
+### Frame 08
+
+![Green Bloon frame 08](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Green_Bloon_Spr/99559327-0186-4f3d-b99f-799a9f3af59a.png)
+
+[Source PNG](sprites/Green_Bloon_Spr/99559327-0186-4f3d-b99f-799a9f3af59a.png)
+
+### Frame 09
+
+![Green Bloon frame 09](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Green_Bloon_Spr/5027a1f4-15e5-4f8d-836c-a838a62742f1.png)
+
+[Source PNG](sprites/Green_Bloon_Spr/5027a1f4-15e5-4f8d-836c-a838a62742f1.png)
+
+### Frame 10
+
+![Green Bloon frame 10](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Green_Bloon_Spr/b0f45e21-0aa6-4805-8002-9fc31f825686.png)
+
+[Source PNG](sprites/Green_Bloon_Spr/b0f45e21-0aa6-4805-8002-9fc31f825686.png)
+
+### Frame 11
+
+![Green Bloon frame 11](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Green_Bloon_Spr/b2329691-e742-43cd-b86f-a60f672c4eea.png)
+
+[Source PNG](sprites/Green_Bloon_Spr/b2329691-e742-43cd-b86f-a60f672c4eea.png)
+
+
 
 ## Yellow Bloon
 
