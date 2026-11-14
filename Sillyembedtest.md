@@ -11,73 +11,73 @@ All 12 frames in the Red Bloon sprite, in the order listed by `Red_Bloon_Spr.yy`
 ### Frame 01
 
 ![Red Bloon frame 01](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Red_Bloon_Spr/8ce2eb56-2e2e-4b31-b137-f2f2b9d25060.png)
-
+Normal
 [Source PNG](sprites/Red_Bloon_Spr/8ce2eb56-2e2e-4b31-b137-f2f2b9d25060.png)
 
 ### Frame 02
 
 ![Red Bloon frame 02](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Red_Bloon_Spr/0e6a90c7-6ac7-45ea-9ea6-3f153889c3f1.png)
-
+Tattered
 [Source PNG](sprites/Red_Bloon_Spr/0e6a90c7-6ac7-45ea-9ea6-3f153889c3f1.png)
 
 ### Frame 03
 
 ![Red Bloon frame 03](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Red_Bloon_Spr/c45840a4-0302-46f2-ba3a-b486a2a79a29.png)
-
+Shield
 [Source PNG](sprites/Red_Bloon_Spr/c45840a4-0302-46f2-ba3a-b486a2a79a29.png)
 
 ### Frame 04
 
 ![Red Bloon frame 04](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Red_Bloon_Spr/5034dbda-dc9f-41a4-8acc-c2db1ced18e1.png)
-
+Regrow
 [Source PNG](sprites/Red_Bloon_Spr/5034dbda-dc9f-41a4-8acc-c2db1ced18e1.png)
 
 ### Frame 05
 
 ![Red Bloon frame 05](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Red_Bloon_Spr/ac652848-e667-4c91-997b-a73f7e82eb38.png)
-
+Camo
 [Source PNG](sprites/Red_Bloon_Spr/ac652848-e667-4c91-997b-a73f7e82eb38.png)
 
 ### Frame 06
 
 ![Red Bloon frame 06](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Red_Bloon_Spr/5865d90f-c02e-490f-a3bb-e1d9f8550bce.png)
-
+Lead
 [Source PNG](sprites/Red_Bloon_Spr/5865d90f-c02e-490f-a3bb-e1d9f8550bce.png)
 
 ### Frame 07
 
 ![Red Bloon frame 07](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Red_Bloon_Spr/9eb1378e-c835-47d6-8bb4-4d35e2f60d1f.png)
-
+Energized
 [Source PNG](sprites/Red_Bloon_Spr/9eb1378e-c835-47d6-8bb4-4d35e2f60d1f.png)
 
 ### Frame 08
 
 ![Red Bloon frame 08](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Red_Bloon_Spr/cd516d20-a4bd-436e-9fc3-8fc4b40a4ce6.png)
-
+Camo Lead
 [Source PNG](sprites/Red_Bloon_Spr/cd516d20-a4bd-436e-9fc3-8fc4b40a4ce6.png)
 
 ### Frame 09
 
 ![Red Bloon frame 09](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Red_Bloon_Spr/b4dd112e-1f70-497b-8395-abdf0647f1f3.png)
-
+Regrow Tattered
 [Source PNG](sprites/Red_Bloon_Spr/b4dd112e-1f70-497b-8395-abdf0647f1f3.png)
 
 ### Frame 10
 
 ![Red Bloon frame 10](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Red_Bloon_Spr/1952b27d-4819-43aa-9017-d36cc8602530.png)
-
+??
 [Source PNG](sprites/Red_Bloon_Spr/1952b27d-4819-43aa-9017-d36cc8602530.png)
 
 ### Frame 11
 
 ![Red Bloon frame 11](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Red_Bloon_Spr/fd1a856a-7d5e-4ed9-9b23-683d21f05dd6.png)
-
+Glued
 [Source PNG](sprites/Red_Bloon_Spr/fd1a856a-7d5e-4ed9-9b23-683d21f05dd6.png)
 
 ### Frame 12
 
 ![Red Bloon frame 12](https://raw.githubusercontent.com/alert-bake/BTDX-source/main/sprites/Red_Bloon_Spr/0e6f808d-1af1-479e-b9fa-e8ea72bdabef.png)
-
+Looks like Normal idk
 [Source PNG](sprites/Red_Bloon_Spr/0e6f808d-1af1-479e-b9fa-e8ea72bdabef.png)
 
 ## Blue Bloon
