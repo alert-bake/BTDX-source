@@ -1,0 +1,33 @@
+{
+    "id": "5538d5a9-d67d-4992-8548-8e2801fa66d9",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "5538d5a9-d67d-4992-8548-8e2801fa66d9",
+    "children": [
+        "af51851c-0bf2-406c-885b-32519bdb9e53",
+        "74d4c2f0-bd41-48ea-9ed0-8b5f2f5454cb",
+        "48ac7872-e3df-40f0-b598-a9afb092b7cc",
+        "24d1447e-10b0-4504-8899-e8f5880f2b95",
+        "68fc1662-293a-410a-a9c2-e6c5cf87a186",
+        "b94ba136-bf29-4286-8c0d-819a92083185",
+        "e2395e64-ebda-45c0-b35d-0a7d2451bd01",
+        "ad90f3b4-1eca-4588-8ba5-8734ad377bda",
+        "2c2541a7-2025-464a-be3b-64bed500405f",
+        "24e8fae6-ef60-4cb4-8583-95041559e1f8",
+        "634e6b62-802f-48cd-b34a-b04c17231114",
+        "6aa7dd31-0b1b-4682-aea2-b009c01b29f3",
+        "3baa3ab2-177a-42f2-92b3-ad8ba67fdffd",
+        "dfa19f3f-eb2a-4baa-b227-024f96ce2ad5",
+        "0b044969-2a7d-459e-af8a-6f7eb6cb7815",
+        "c4e3e241-5c1f-4f47-969e-e230ff6b4af1",
+        "c96a9ef2-c00f-43bd-994a-d0e388878665",
+        "dd5664bd-f414-441e-acee-ee828e43d7fc",
+        "acec6ca8-4a09-48e6-9e2b-5886b90a3c5b",
+        "357c9692-fb4b-4c28-b365-78ba52acdae4",
+        "48d9240e-064a-4c6b-a7e5-26de64640551"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Temple",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

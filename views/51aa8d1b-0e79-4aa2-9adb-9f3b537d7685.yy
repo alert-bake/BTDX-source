@@ -1,0 +1,31 @@
+{
+    "id": "51aa8d1b-0e79-4aa2-9adb-9f3b537d7685",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "51aa8d1b-0e79-4aa2-9adb-9f3b537d7685",
+    "children": [
+        "f4f6b477-f3db-4d5b-bf5e-aecb819d5349",
+        "98159ec6-effb-489d-991a-5ef543b86aa7",
+        "0a5f2aee-0dac-488d-95bf-f4066070e757",
+        "c8a5a301-e500-4e28-9e40-d2a6774ccbd0",
+        "00ad3b1f-ce3a-45fc-b10d-24061c2577ba",
+        "53e4d8c5-cb29-48fc-a41c-5b0ccf89fac8",
+        "984d9439-b1de-41e9-b026-d01eb6e599b8",
+        "03a8502c-3f7d-45d1-9c61-23155a1e0d3f",
+        "8b48921e-b7f0-4774-9618-a6a42d83234c",
+        "f2e15d57-43d6-43d7-9d29-d5b08c634a53",
+        "1995538c-601f-47af-ab15-0057969a670c",
+        "89934378-b9a4-4006-b7e6-0b20d3948eb2",
+        "2a7a6417-7b83-493e-87e2-46b5d1164bbe",
+        "e6a63d44-e1ca-4dc0-8106-7c1642ad87ab",
+        "189045c5-13e4-4a1b-9c42-e70eae69fecb",
+        "108117c3-fc26-4071-b994-ee919c282edd",
+        "2d8d221f-ac3e-414c-a846-50637302e85d",
+        "cdacbd93-a429-4e02-b7f0-7fd6cf1a744e",
+        "3dfb8bbd-879e-4992-bd46-96a13ad73802"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Nightmare Bloons",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

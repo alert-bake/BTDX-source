@@ -1,0 +1,50 @@
+{
+    "id": "7163683c-ffd2-4fa8-9336-55e320e99bde",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "Achieve_Control",
+    "eventList": [
+        {
+            "id": "cc8f631d-4613-4c8b-bd17-83581e86aebd",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "7163683c-ffd2-4fa8-9336-55e320e99bde"
+        },
+        {
+            "id": "30421d83-ca1d-4bb5-91f5-5191897dfe17",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "7163683c-ffd2-4fa8-9336-55e320e99bde"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": true,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 0,
+    "physicsShapePoints": [
+        
+    ],
+    "physicsStartAwake": true,
+    "properties": null,
+    "solid": false,
+    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "visible": true
+}

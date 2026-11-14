@@ -1,0 +1,30 @@
+{
+    "id": "ddd987be-5f84-4edb-836a-1613e9f1f68e",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "ddd987be-5f84-4edb-836a-1613e9f1f68e",
+    "children": [
+        "3c5d83db-809a-4dd6-8678-a2b3b248f1e7",
+        "07b439fa-586b-4906-a134-830cad4ec952",
+        "c9fe2c57-d0ec-4f1e-88c4-2cf37955034f",
+        "d3cf1652-071f-4e67-8752-bde767ec15dc",
+        "9e7a2d60-572e-48a9-b74f-e8ac9d574acf",
+        "7731054b-f2d9-4f68-a84c-e665acdea014",
+        "e947de17-b1ca-412a-a3b7-7144f5a894c6",
+        "90d831e2-9114-4283-98dd-c6317e12190d",
+        "2a498483-3556-456c-add2-816832205e29",
+        "e86a2855-b09e-4f93-a7a1-608266e824ea",
+        "5abb84d2-6a5a-4c3a-af3b-484955e09228",
+        "2e1d1576-bef7-4182-b653-1dc4ddb9958f",
+        "1177ce74-1b73-4e66-984c-14ff48733c39",
+        "d0ddee57-1850-4d5f-9359-8c8b2e13ea50",
+        "e540850b-9bd8-41fe-8179-14aad09ef896",
+        "58e56ce9-b7ba-4894-812c-f5f7be5cd5bd",
+        "a2ae67ee-7c95-43c5-adfc-496017b78a26",
+        "63cc2743-1102-4093-9a78-04ad135b75bc"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Super Monkey",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

@@ -1,0 +1,32 @@
+{
+    "id": "9c5ffe0a-3688-44d6-9e83-b24bc54baeca",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "9c5ffe0a-3688-44d6-9e83-b24bc54baeca",
+    "children": [
+        "77a1c7c1-917a-46b0-a7fa-e6e79fee22ea",
+        "98b79c4d-49bd-4288-b72a-48c912106fae",
+        "6bc6bb1f-e3df-4fc5-883c-384c80b37883",
+        "394a4ead-c646-4623-a684-738f1cfae5fe",
+        "7a2004cd-e94a-4841-88db-e6526fd4ec8f",
+        "977c9f6e-9925-4a2b-b50d-f0df05aa3a41",
+        "70bf40f3-034e-40f9-9b30-d39b3e508e48",
+        "89a4dc37-feec-44bb-85dd-9c5c9f9d1cf3",
+        "f0003355-c96a-4b23-872e-cbe19943a9d4",
+        "0e7d83d7-9a1d-4600-8248-26df24b3e2ef",
+        "81a5794d-6993-4d1d-8ce0-0c3ba13e0752",
+        "f45dcff7-6e7b-4322-a792-9dd287aa181d",
+        "404a23e1-f002-436e-93af-88df27b4b12a",
+        "9476531c-e19a-44a1-b0dd-dd394eed1755",
+        "bdcd649a-d5f4-42c0-a950-95f404f9f330",
+        "1ede363f-dd41-4f68-87b6-90193732d21a",
+        "57df4013-25d9-4f01-a4e3-fa97dad3b853",
+        "80a34559-234a-48b3-b848-e29cfd2619cf",
+        "04bd484c-d88b-4b85-9d41-09376911ab3b",
+        "74aaff31-c95b-4256-9fd7-e59337a6e393"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Farm Sprites",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

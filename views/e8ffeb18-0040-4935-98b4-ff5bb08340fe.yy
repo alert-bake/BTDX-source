@@ -1,0 +1,30 @@
+{
+    "id": "e8ffeb18-0040-4935-98b4-ff5bb08340fe",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "e8ffeb18-0040-4935-98b4-ff5bb08340fe",
+    "children": [
+        "816bdae0-eff0-47f9-a3b2-2bbaccb914b8",
+        "bb8a6ce0-74e2-4f6b-9e41-1e3cda57d928",
+        "6eac3aff-cac4-47e2-9377-bc4ee860e855",
+        "aa5fe494-2085-4312-8777-909acd23e2ce",
+        "fb73898c-5fb0-4c1b-b272-1dfe3997a152",
+        "6a5717f7-6534-489a-87d1-9410991b50ee",
+        "6efe40dd-0532-4919-b2fa-462fd01fbdcb",
+        "eb2b4320-6c9e-47cc-b1de-ceb952fa4b49",
+        "cab65a83-388f-496e-861e-91d4c03c4e05",
+        "95567fe3-9d89-4d8d-8210-d665e9e89c40",
+        "150b7151-5ff3-4aa7-b958-139db201785d",
+        "f5243472-9aba-4d86-8082-a6fbac38622d",
+        "c0a0d097-a562-4e2a-9f55-8d1468cc219a",
+        "3a6f3474-9a93-4eca-905e-e31602b3ccaf",
+        "dab211b9-c50c-4703-b687-61305f886296",
+        "b892bca7-19aa-409f-98b6-ed69a3b1b43d",
+        "fcb667d6-9271-494f-a015-5bb9e971aa51",
+        "4f392be4-5b47-4e57-966c-dc0d0eb3c19a"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Dart Monkey Sprites",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

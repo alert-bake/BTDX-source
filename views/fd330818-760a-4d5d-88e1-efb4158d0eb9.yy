@@ -1,0 +1,32 @@
+{
+    "id": "fd330818-760a-4d5d-88e1-efb4158d0eb9",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "fd330818-760a-4d5d-88e1-efb4158d0eb9",
+    "children": [
+        "23d6085e-812b-4e58-baa4-fe52aa6e2b1b",
+        "603a15fc-a683-48c7-b474-a70b04c8782d",
+        "1c083568-65d3-4e04-82c3-172667734bdb",
+        "e02aef9a-712b-469d-9514-4cbd222246cb",
+        "f23bd77b-ce70-429a-9e25-202c66bba602",
+        "d7fee15a-9aab-427a-9a85-a9d3017df066",
+        "49081e5e-5c87-4243-b397-374d4f9e53af",
+        "82e2a04e-6fcb-4f52-9be0-f457e09a8a54",
+        "507a4182-5af8-4c6d-b2ca-b10bb67f645e",
+        "a34397f7-b0f7-4f78-8402-0bce02126104",
+        "e331c4df-71bb-43f7-8c78-83ec8781a038",
+        "14974cf3-8fb5-42ee-978d-319d3f3ecb6e",
+        "659028c7-5736-4b69-8741-d74a8acb99f5",
+        "3cd60ddc-c161-4ac4-8130-6ad370a0bdb7",
+        "2ad3b9cc-b7f7-4dfa-8354-585aabb63af5",
+        "adb107ad-f0d3-4dc5-9b18-66a435ad842f",
+        "31e4ba81-022d-4419-ba36-4b17e96b169b",
+        "e8a6e3a1-a64f-40d9-ba4e-ac4d10d485b9",
+        "3120af6a-f887-4c9d-afd2-3a3296bafeda",
+        "e5e8c802-51af-476e-b6a7-fd2d9556e5bc"
+    ],
+    "filterType": "GMTimeline",
+    "folderName": "N 41-60",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

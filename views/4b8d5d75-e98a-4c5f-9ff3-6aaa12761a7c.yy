@@ -1,0 +1,31 @@
+{
+    "id": "4b8d5d75-e98a-4c5f-9ff3-6aaa12761a7c",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "4b8d5d75-e98a-4c5f-9ff3-6aaa12761a7c",
+    "children": [
+        "5607876e-f242-476d-b451-162b0e9ecdd7",
+        "34e2fe0e-11f6-4101-b6f6-5367f7aeb8b3",
+        "26f99aee-7388-4c51-8012-682352ac54e2",
+        "a8160d78-cbf2-4286-81a1-0aee2cc482dd",
+        "70092927-905c-4322-99d5-c2575912aac2",
+        "2a6a1dab-ec1b-4c22-b90a-987b2ebb91e2",
+        "2953de29-f279-4433-a98d-64e04dc3e12f",
+        "38f7c8df-ace1-4f54-9ba6-23cec02589fc",
+        "d6d32b98-449e-4445-83d6-50024b6d8ae8",
+        "08115aad-32b6-4220-a9a2-8e1b2a33eb1e",
+        "0d3f6416-3b5a-4958-b160-e70558c82df6",
+        "f4af44d1-15b4-4889-afe6-f59046a00747",
+        "65b0ce11-18af-4ab3-a6a4-e79ce5426cf8",
+        "e2e902eb-0c1f-42b0-97e5-b719710855d7",
+        "cbe78dde-4d29-4264-b1eb-7627d4eb2d21",
+        "d32ccc11-2080-450a-9175-6fe4d9de0d18",
+        "839c2a5e-5d5f-42bf-9356-53ee1af332d3",
+        "715cc797-14bd-438c-9d3f-122aae9a8e59",
+        "42a4d83b-704b-4158-9ce3-65db6f5304aa"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Bounty Center",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

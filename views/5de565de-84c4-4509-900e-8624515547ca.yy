@@ -1,0 +1,32 @@
+{
+    "id": "5de565de-84c4-4509-900e-8624515547ca",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "5de565de-84c4-4509-900e-8624515547ca",
+    "children": [
+        "8394152c-4b94-4ad3-bca8-84fe0c0da650",
+        "43a4b670-3c71-45a1-b00b-81d29e56afa3",
+        "eb17a6da-aa44-4d3e-8b82-8cbeacf54f2a",
+        "1eab873e-4826-4a19-965e-2b5cff8c10d0",
+        "4be7c18f-ee85-437a-b47b-d9b8ee99d9d6",
+        "04da4e63-1748-40fd-9333-bae1cc071952",
+        "8383761f-8249-4df0-8b90-dd86d02ef7b2",
+        "2a6c6a05-fffd-4def-a7ff-c31ff1586a5b",
+        "175ca176-da0b-4fe7-85c9-054054dd8390",
+        "f90ea743-1b3e-4fa4-94b9-55d34d3a5de5",
+        "2df434fa-e298-4598-a274-4d9132eb0632",
+        "10a8794f-6ba6-47b0-8a7d-60acca26b6bc",
+        "eb713054-da6b-4a6a-a2be-6ede6067338b",
+        "8cc87887-17e5-48aa-b295-a476910a0657",
+        "57e7682f-3ae1-4335-b735-283f94112a7b",
+        "179ad5cb-e75e-4887-97b6-ba5ebb43463e",
+        "1b1f1679-c7e4-4e36-9903-6209334de2ba",
+        "944a4d72-1c11-43de-9b95-6ef427326459",
+        "8bcb7092-6316-4e94-96e9-366f43d28539",
+        "52f6a717-eded-48ac-9d5f-f924eef2845e"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Monkey Apprentice",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

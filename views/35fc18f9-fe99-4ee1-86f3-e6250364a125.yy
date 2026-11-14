@@ -1,0 +1,33 @@
+{
+    "id": "35fc18f9-fe99-4ee1-86f3-e6250364a125",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "35fc18f9-fe99-4ee1-86f3-e6250364a125",
+    "children": [
+        "a1667b01-23a1-498c-bda2-afb662fe7d26",
+        "b764df12-d5f3-442f-acca-e0704084d8d7",
+        "d2c98dd9-e855-4961-baf1-8766a15ec362",
+        "fb0fc77e-7c96-4ada-9ac0-028755fbfcb4",
+        "d1ea7720-2ed5-407c-a3f4-81d875422242",
+        "2fd24776-4e06-479a-bc83-37634ceecbb9",
+        "97354dbb-421c-42c0-9f51-d29cc4fb5cff",
+        "1f86ffcc-f0bb-444b-a1d2-c98699a9b506",
+        "dce4ea0f-98ee-4309-b0f5-3dd3652c8543",
+        "67f7debd-e5f3-41b6-b59e-0dc85e0f63f4",
+        "64298144-420e-4866-b0d4-f4a57360e624",
+        "e6d2be8c-abe4-40c6-9b6f-e79c95b2f89f",
+        "38d4a4a2-af2b-4d36-a2a5-154fab891177",
+        "4ae8c2ca-752f-447a-be0f-f288960026eb",
+        "5f016d9c-dbfe-4978-b9b1-1fb229263907",
+        "7e1ea0dd-1396-4be3-afdc-7f4737b2513e",
+        "e4c3f245-1b86-43b6-9615-1eca15ed3f8b",
+        "f5f283dc-6932-4727-8044-48861a2ab741",
+        "41109ade-ac2d-407e-abb1-b5561717baf5",
+        "e51d8af5-082d-4118-9e56-649aad846b78",
+        "b2e6a26e-6d81-4895-955c-edd87db2ae07"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Dartling",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

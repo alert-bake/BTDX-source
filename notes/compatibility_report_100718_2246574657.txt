@@ -1,0 +1,174 @@
+Font font0 has been converted to font family Oetztype (Regular) - Font has been regenerated, small inconsistencies may occur
+Font font3 has been converted to font family Oetztype (Regular) - Font has been regenerated, small inconsistencies may occur
+Font font2 has been converted to font family Oetztype (Regular) - Font has been regenerated, small inconsistencies may occur
+Font font1 has been converted to font family Oetztype (Regular) - Font has been regenerated, small inconsistencies may occur
+Font font12 has been converted to font family Oetztype (Regular) - Font has been regenerated, small inconsistencies may occur
+Font font5 has been converted to font family Oetztype (Regular) - Font has been regenerated, small inconsistencies may occur
+Converting GML script: ${project_dir}\objects\Snipe\Collision_5a26aa05-65e0-4e3b-beda-7045538745b8.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Snipe\Collision_8947683d-9593-4dcd-95ce-ad5c69944f8c.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Bloon\Create_0.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Moab_Class\Destroy_0.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Camo_Moab_Class\Destroy_0.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\HTA\Create_0.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\DDT\Create_0.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Mini_Moab\Create_0.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Moab\Create_0.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\BFB\Create_0.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\LPZ\Create_0.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Glued_Red_Bloon\Create_0.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Glued_Red_Bloon\Collision_ec514aa1-3ae2-471b-aac3-a8b15d48dbdf.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Corrosive_Red_Bloon\Create_0.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Corrosive_Red_Bloon\Collision_84e1e4b1-aed6-4e15-88d7-c9451b4bfdb9.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Dissolved_Red_Bloon\Create_0.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Dissolved_Red_Bloon\Collision_907d0f5d-48ed-4d4c-aea2-e7d0aac885fc.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Liquefied_Red_Bloon\Create_0.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Liquefied_Red_Bloon\Collision_610d5076-ee40-4346-982e-a453b3526a3c.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Slow_Red_Bloon\Create_0.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Slow_Red_Bloon\Collision_c1b637f5-7ba8-4177-9101-78a6e5730d96.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Crazy_Red_Bloon\Create_0.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Crazy_Red_Bloon\Collision_d96716c8-c266-4703-aa4a-5e04794b80e0.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\RedBlue_Bloon\Create_0.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\RedBlueGreen_Bloon\Create_0.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Moab_Class_Bloons\Collision_f861f71f-8ffd-4160-a8f4-3ae051f63156.gml
+Error: variable 'layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting object event to GML script: ${project_dir}\objects\SunDialTele\Step_0.gml
+Skipped action 2 as it applies to <undefined>
+Skipped action 3 as it applies to <undefined>
+Skipped action 4 as it applies to <undefined>
+
+Converting GML script: ${project_dir}\objects\Update_Checker\Other_62.gml
+Converted string - line 14: 'version' -> "version"
+Converted string - line 14: 'number' -> "number"
+Converted string - line 17: '1.1' -> "1.1"
+
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'Gun_Shot_Spr' - setting to default audio group
+Missing audiogroup for sound: 'Popping' - setting to default audio group
+Missing audiogroup for sound: 'Pop' - setting to default audio group
+Missing audiogroup for sound: 'Blimp_Hit' - setting to default audio group
+Missing audiogroup for sound: 'Blimp_Destroyed' - setting to default audio group
+Missing audiogroup for sound: 'Popp' - setting to default audio group
+Missing audiogroup for sound: 'Tower_Select' - setting to default audio group
+Missing audiogroup for sound: 'Bounty_BTFO' - setting to default audio group
+Missing audiogroup for sound: 'Small_Boom' - setting to default audio group
+Missing audiogroup for sound: 'Large_Boom' - setting to default audio group
+Missing audiogroup for sound: 'Ceramic_Hit' - setting to default audio group
+Missing audiogroup for sound: 'Winning' - setting to default audio group
+Missing audiogroup for sound: 'Lightning_Sound' - setting to default audio group
+Missing audiogroup for sound: 'Tower_Place' - setting to default audio group
+Missing audiogroup for sound: 'Temple_sound' - setting to default audio group
+Missing audiogroup for sound: 'Upgrade' - setting to default audio group
+Missing audiogroup for sound: 'Lead_Hit' - setting to default audio group
+Missing audiogroup for sound: 'Main_Menu0' - setting to default audio group
+Missing audiogroup for sound: 'Meadows_Music' - setting to default audio group
+Missing audiogroup for sound: 'Lawless_Music' - setting to default audio group
+Missing audiogroup for sound: 'Birthday_Theme' - setting to default audio group
+Missing audiogroup for sound: 'Lava_Theme' - setting to default audio group
+Missing audiogroup for sound: 'Sky_Theme' - setting to default audio group
+Missing audiogroup for sound: 'Tim_Theme' - setting to default audio group
+Missing audiogroup for sound: 'Dark_Tim' - setting to default audio group
+Missing audiogroup for sound: 'Moon_Father_Theme' - setting to default audio group
+Missing audiogroup for sound: 'Desert_Music' - setting to default audio group
+Missing audiogroup for sound: 'Factory_Music' - setting to default audio group
+Missing audiogroup for sound: 'Fort_Music' - setting to default audio group
+Missing audiogroup for sound: 'Sun_Music' - setting to default audio group
+Missing audiogroup for sound: 'Woods_Music' - setting to default audio group
+Missing audiogroup for sound: 'Docks_Music' - setting to default audio group
+Missing audiogroup for sound: 'Boss_Music' - setting to default audio group
+Missing audiogroup for sound: 'Crimson_Music' - setting to default audio group
+Missing audiogroup for sound: 'Minecarts_Music' - setting to default audio group
+Missing audiogroup for sound: 'Depths_Music' - setting to default audio group
+Missing audiogroup for sound: 'Swamp_Music' - setting to default audio group
+Missing audiogroup for sound: 'Space_Music' - setting to default audio group
+Missing audiogroup for sound: 'River_Music' - setting to default audio group
+Missing audiogroup for sound: 'Xtreme_Music' - setting to default audio group
+Imported layer depths for room(s) 'Start_Screen, Conveyor_Belts_Norm, Conveyor_Belts_Sand, Conveyor_Belts_Time, Crimson_Creek_Norm, Crimson_Creek_Sand, Crimson_Creek_Time, Sun_Stone_Norm, Sun_Stone_Sand, Sun_Stone_Time, Time_Challenge_3_Room, Time_Challenge_5_Room, Blimp_Brigade, Solar_Storm, Solar_Storm_fgdg' were not adequately spaced. Unless updated this will have undefined results in game.
+Game speed set to 60
+Added compatibility script 'action/action_another_room.gml'
+Added compatibility script 'action/action_bounce.gml'
+Added compatibility script 'action/action_change_object.gml'
+Added compatibility script 'action/action_color.gml'
+Added compatibility script 'action/action_create_object.gml'
+Added compatibility script 'action/action_draw_sprite.gml'
+Added compatibility script 'action/action_draw_text.gml'
+Added compatibility script 'action/action_draw_variable.gml'
+Added compatibility script 'action/action_font.gml'
+Added compatibility script 'action/action_if_dice.gml'
+Added compatibility script 'action/action_if_number.gml'
+Added compatibility script 'action/action_if_object.gml'
+Added compatibility script 'action/action_if_variable.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_move.gml'
+Added compatibility script 'action/action_move_random.gml'
+Added compatibility script 'action/action_move_to.gml'
+Added compatibility script 'action/action_path.gml'
+Added compatibility script 'action/action_reverse_xdir.gml'
+Added compatibility script 'action/action_reverse_ydir.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'action/action_set_friction.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_set_timeline_speed.gml'
+Added compatibility script 'action/action_snap.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'action/action_sprite_color.gml'
+Added compatibility script 'action/action_sprite_set.gml'
+Added compatibility script 'action/action_timeline_set.gml'
+Added compatibility script 'action/action_wrap.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'sound/sound_play.gml'
+Added compatibility script 'sound/sound_volume.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

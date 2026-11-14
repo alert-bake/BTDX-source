@@ -1,0 +1,30 @@
+{
+    "id": "bf301f63-b5c8-443b-ba69-7e0b4613a43b",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "bf301f63-b5c8-443b-ba69-7e0b4613a43b",
+    "children": [
+        "77737692-0896-45ee-895c-f26f5849da26",
+        "f9a7085b-e625-4899-b677-310fd5771ace",
+        "02b79c0b-f2ef-499a-b6e5-955417fb6e99",
+        "c5cb2dc9-415d-42a4-9991-061e3c2d2db2",
+        "4d8c37f0-a2cf-4e97-bf9c-828145305f72",
+        "c899ff0d-8f4c-449a-9ae8-c09754bfa32e",
+        "9cb42945-637f-445e-b903-0a2720469575",
+        "72c51565-f65a-4201-9298-89d3562f320e",
+        "51e8e5b8-952c-4d51-9371-2caf8b7c6403",
+        "81bab4ff-8c44-43b3-a262-7d3f3ae44bb6",
+        "f163247f-2bab-461b-8ebd-4a1b4fecc26b",
+        "4bf10943-9b0c-4822-82b4-7a172221f564",
+        "28332f56-007c-49fa-81a3-926c6d8cb700",
+        "c8ff697e-4fcd-4caa-abcd-6a87eee27b81",
+        "346ac470-a03b-40c8-a306-f79dcbf0c3a0",
+        "65965165-fac4-4595-ad14-6407b66a5088",
+        "61841411-8f1c-4ce1-be77-3d325d706a4d",
+        "1cab16e4-7673-40b0-a198-1c1e58415cb5"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Projectiles",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

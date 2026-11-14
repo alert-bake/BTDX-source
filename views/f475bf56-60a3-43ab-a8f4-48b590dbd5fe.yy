@@ -1,0 +1,31 @@
+{
+    "id": "f475bf56-60a3-43ab-a8f4-48b590dbd5fe",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "f475bf56-60a3-43ab-a8f4-48b590dbd5fe",
+    "children": [
+        "506abf6b-b6db-44bb-8bf2-11e8f4d8b0cd",
+        "c1d91786-5ae7-4bad-8c37-de891adfa328",
+        "e0aaf944-06c6-49e9-9b98-2ad2ee57d355",
+        "b56a4483-d9c3-4eb8-86db-889a4547f87c",
+        "2e8034de-2706-4d50-8816-82c2446cb70c",
+        "dc6aec5b-5921-4b82-88b4-295228d39b58",
+        "4215e9b2-7f79-410e-90b8-b76832ce869c",
+        "50fb1eac-dc41-4d33-85ba-95f26be24300",
+        "993a702b-67ee-4fa5-935e-b84c5e080f2f",
+        "2722daf1-0d65-4707-8637-71e6b0444e75",
+        "5d2a55c2-dd86-434e-9f7c-12a34f32eb5d",
+        "0558dd54-1829-412c-aa98-55a4a561bf79",
+        "168429b2-cd72-49ec-8aae-24172ba18731",
+        "64cf2312-2377-4de3-ad70-b0ff702192c1",
+        "a53eaa8b-6a60-4f12-bdff-07f47360918b",
+        "3970ba54-9aea-4f43-a440-f8be9ac56c91",
+        "08bad596-c170-49e7-9ac6-45f642a87085",
+        "01c2c6b5-a764-46f7-bb2b-09b32ead42d7",
+        "327ad1ff-37d3-4e22-b75d-c856ccbbaeac"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Ninja Monkey",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

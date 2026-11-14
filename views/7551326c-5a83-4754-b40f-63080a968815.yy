@@ -1,0 +1,32 @@
+{
+    "id": "7551326c-5a83-4754-b40f-63080a968815",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "7551326c-5a83-4754-b40f-63080a968815",
+    "children": [
+        "75d6676c-3232-4e52-81ac-011dbd0f92b0",
+        "3830880f-8243-473d-a3db-6cb56ee29e04",
+        "9b60cd38-3e62-422e-9368-e4d29e3dab1f",
+        "5efc50ba-e514-4c91-a598-c9acbfa1c3d5",
+        "5c45cad8-fe6b-43ce-8bdf-39d12e3e132e",
+        "130528b2-4f62-46df-aafe-e231c8b9c740",
+        "6de156c0-120b-48b8-b9b2-6eea38df4c6b",
+        "279d621f-9d7b-45e1-b0dd-a2003a36cb69",
+        "d319464b-206b-41b4-a386-2246cd046be6",
+        "32b973f4-2866-4433-8a2b-9687f467ba3b",
+        "63064110-a9ed-44fc-a5cb-50375e008dd2",
+        "2a1cd8a3-9b55-4a80-b55e-21f9bfeb26cb",
+        "935962fd-5067-4dc6-add8-a836706bcc9e",
+        "f4327a49-689e-4738-a88e-930d2926cffe",
+        "8ad0425a-03c2-4c76-9c3c-b0fc2cd7ff76",
+        "0a8cc51d-db00-4de2-918d-073eb8eae1b1",
+        "abb2dff1-3abf-485f-acc3-c5abcb1fde8e",
+        "2f3ac004-2fe2-4f38-8088-4d8f631ad724",
+        "72f1e4cd-1e2e-492c-81d9-43b964a4504f",
+        "b75392d7-a597-4960-aed1-0caf44b7501f"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Helicopter",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

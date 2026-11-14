@@ -1,0 +1,33 @@
+{
+    "id": "210f8e2c-ce0b-4dd9-9cf6-ff9e46f12134",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "210f8e2c-ce0b-4dd9-9cf6-ff9e46f12134",
+    "children": [
+        "c1098098-9328-48a6-8aeb-167a9abc19e1",
+        "02640efa-5601-4337-988c-8cf86216bf4a",
+        "194d0367-2da9-45dd-a44f-a969cc5891e5",
+        "03262705-3a99-4dd3-94d4-407b1ff6bda8",
+        "a0dc9300-6d7f-4a24-b198-b33a79e06c06",
+        "08dceee4-d10b-4cbc-a160-a949349c6656",
+        "3a07929d-465f-4e1f-9ec5-afe73b54c02c",
+        "d5a8cb6f-f622-4351-b651-521146830159",
+        "5e211451-da6f-424e-81de-6358252a049b",
+        "99ef775c-11fa-4abd-8045-6550fee55a71",
+        "0e51c2ba-55c6-4431-936b-f753d2a38ce3",
+        "be74c878-92e6-4fd6-9d2f-363b7364d056",
+        "e5cec895-0bc5-4e35-90e9-227c6118f0e5",
+        "a8e45d0f-7d64-484e-9176-d565f939af2c",
+        "0b6a1dc9-8dfc-4278-b59c-f544f38be023",
+        "6a199138-eccd-4c0c-a124-517ac8a4b991",
+        "6e3f71a7-9ecd-4f7b-bf63-00248cbc98d5",
+        "312cfc26-5c0c-4b6b-af20-17147526b393",
+        "fb005ffc-1b3b-4ca5-8651-211b90fa453f",
+        "b0a2c586-bd97-49d2-b97b-d45db3c6b65f",
+        "0ea43820-da27-4e0f-9f6a-d7bf5bb932c0"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Ice",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

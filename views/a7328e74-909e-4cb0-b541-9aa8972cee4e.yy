@@ -1,0 +1,30 @@
+{
+    "id": "a7328e74-909e-4cb0-b541-9aa8972cee4e",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "a7328e74-909e-4cb0-b541-9aa8972cee4e",
+    "children": [
+        "fbec0b0b-2c4a-47bc-b0e7-23450081ee12",
+        "080d123d-ba34-4889-bd84-d914b95d0a74",
+        "dc8dddc3-0978-46a2-9859-512ab7ad1b4d",
+        "04e0dc68-d476-4515-ad8f-e63dd3a1b8c1",
+        "5665e454-4e34-49b2-96f6-aa7e75891833",
+        "5e403b89-2f86-428d-871f-4a9755a25bbb",
+        "aae90a66-7c45-400a-a020-9cbba3397d15",
+        "36ad857f-e754-48ec-884e-b1c3c9f691f5",
+        "cf019194-06c5-4f28-bc07-a86938b0ea37",
+        "cca4fd31-56ac-493e-b4dd-0d05941585c1",
+        "db40ed5b-e888-4900-b4e6-eb6c318d6702",
+        "341d777a-a9ba-4fdf-83bd-240c8ed56c2c",
+        "a56d1aac-32d9-4b72-adf4-0b86051702c0",
+        "db87882d-29d6-4592-bbe1-36f5c600dfb4",
+        "8823977b-8db6-4a41-9503-827866763cbe",
+        "9e14a9c7-1f4f-4105-94d9-dc98c36c4838",
+        "68c247aa-eae1-4092-9f64-bb36cf052c94",
+        "0f259338-2930-4900-bc7e-1d1a7ad79944"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Goodies",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

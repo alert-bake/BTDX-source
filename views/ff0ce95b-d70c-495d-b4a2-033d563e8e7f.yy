@@ -1,0 +1,30 @@
+{
+    "id": "ff0ce95b-d70c-495d-b4a2-033d563e8e7f",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "ff0ce95b-d70c-495d-b4a2-033d563e8e7f",
+    "children": [
+        "946848eb-cbd2-46bc-9447-f94cd7b26898",
+        "0fadcc85-0db6-4a8a-8fa7-b2d1e9a95675",
+        "cea81050-0dc3-4fc1-acd7-d60d767502ca",
+        "8c6cdd22-e488-47f9-b9bc-d40c404a82bf",
+        "99229f11-fdec-4153-af64-3f1e5ce72daa",
+        "c312514d-538e-493f-8f7b-bc92ccd2a139",
+        "33efaf25-a2c0-47fc-84a3-d6eac57bcd5b",
+        "2c65cfb5-3809-49f3-977c-8def051ad680",
+        "0be78b0d-da84-48a8-80ed-4441f11e0e65",
+        "16c2d653-3fc8-4777-b8c9-892126e067bb",
+        "daee5cc8-fd0e-4548-abbb-0b630c63ad23",
+        "059a2778-eb4d-42a5-9287-934a73ddef55",
+        "4ed38f3e-58f7-46a4-ad05-bc2fc85120c0",
+        "ea866597-0692-4d79-8491-54e028310265",
+        "837d2830-34b7-4bfd-9a08-c1fd87221953",
+        "fc11abec-7723-4410-9f48-ae2970e93bcf",
+        "4ea68f89-da67-4271-83d3-78f7c10e392e",
+        "82ef00ac-1591-4279-9a40-fda58688e693"
+    ],
+    "filterType": "GMRoom",
+    "folderName": "Special Missions",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

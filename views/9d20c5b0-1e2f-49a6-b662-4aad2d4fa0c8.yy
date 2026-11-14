@@ -1,0 +1,33 @@
+{
+    "id": "9d20c5b0-1e2f-49a6-b662-4aad2d4fa0c8",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "9d20c5b0-1e2f-49a6-b662-4aad2d4fa0c8",
+    "children": [
+        "d458c24c-7f06-417f-851b-5ae2b46e58b3",
+        "2152af60-0aee-4e57-9274-fee4e943bc6f",
+        "71fdd582-0182-4452-8ffc-f019b3c5df9d",
+        "c9e42d13-d85c-4d44-b8fd-5aa35bcb16a6",
+        "6ce0ad4e-4b00-4ea2-8c46-48e0ff48f862",
+        "dbacbb39-12cc-4a2a-986a-f19471e9f5ea",
+        "e72b7972-7c1e-4fe6-baf3-23c92a192005",
+        "9e704cf2-f8f5-417b-8b78-3792cd0156f0",
+        "b8088cac-71a8-4abf-aad2-859d317d3598",
+        "b06f8019-a629-426f-a71c-9526de54e750",
+        "5b1aa1b9-ac2b-474a-9bc5-8c7a3accbc1e",
+        "554c1c7b-f1c3-4702-981b-af07f27bdb49",
+        "966ea83b-8232-4a30-8456-dd479e20aaeb",
+        "72a47c7b-98da-44ec-aa6e-75d628c22cf7",
+        "64280889-5ef1-4195-8ff8-566ee51cdbf4",
+        "4f552720-53a8-4166-bb76-89998dd72899",
+        "7b970b62-3f5b-42bd-91c7-4e393c91de4a",
+        "bd2cee3b-a475-4671-bbf9-a20615c8239f",
+        "63d4df00-177d-4d26-b77a-8e569483d481",
+        "a1d1681e-d8fb-4def-aafb-a62dc70af9fc",
+        "563541d4-911a-415e-9e0b-eb878aa2a1f5"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Plasma",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

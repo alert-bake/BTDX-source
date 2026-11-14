@@ -1,0 +1,33 @@
+{
+    "id": "e2d6a272-6c38-4c92-a95f-4bed31e7c135",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "e2d6a272-6c38-4c92-a95f-4bed31e7c135",
+    "children": [
+        "06999e4c-5c95-4efd-a40f-3d1f461a1cd0",
+        "59d475cf-d394-41a0-ab7f-93b5ef2e1ec5",
+        "6775d8dc-0c14-47fc-9a43-63535f0dcfa8",
+        "55344479-5e87-47ae-845c-cfaba162169a",
+        "b6f20fda-14c7-45b3-a0f0-ee08343d9163",
+        "72f66832-11dc-4beb-8af0-78344dea0def",
+        "8238f77d-cf06-44bb-a4cf-0f805e585be3",
+        "355ff740-6f15-43b6-a879-9633d499682e",
+        "0f695d7d-a45d-46e0-991e-f05ecfafdaa4",
+        "d802689b-ffe4-4645-ac84-d30de8e5b215",
+        "8fd036f2-e2f0-4312-a75b-84b85bd48d2c",
+        "17150636-77d9-42f0-8fa9-7b9c4867a4ba",
+        "75f2a479-52d0-41d8-8096-ddf73ebff422",
+        "304c4de7-9019-4649-bac5-ca74748caa29",
+        "f5c9357d-5928-4a87-90cd-5c83391f4027",
+        "0a2dd518-0952-42bf-b40a-e019bd36b8a3",
+        "2d67fb50-8746-47b5-a99f-8be2536ef300",
+        "2d85a90f-34a8-4644-8d8e-1109da778cda",
+        "35a25509-e757-4dc5-a79d-b6e06f46f281",
+        "a591f2c0-96a6-4827-875d-97174eebc572",
+        "285aa3ef-ae41-4c7e-a841-99759a6b6a89"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Music",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

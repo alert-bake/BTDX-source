@@ -1,0 +1,30 @@
+{
+    "id": "02cdf9e0-81e8-4b9c-b9e7-a42008662cc7",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "02cdf9e0-81e8-4b9c-b9e7-a42008662cc7",
+    "children": [
+        "c2d19d32-0b58-44a5-a274-467ea43aac58",
+        "1778d70a-c3c7-485c-b4d9-b5f4c39f6506",
+        "4e76dc73-19a4-4dee-b4a1-b75f7131c863",
+        "07b36465-7271-477e-8888-1c07c46a5a61",
+        "b8b53e76-dbfb-481f-8721-a7b2afee3c58",
+        "cea4e5f9-99dc-473f-b620-4fd917ed04f9",
+        "1f739054-ba53-4356-8928-b229c19edb90",
+        "ceb8f3a9-7915-4d9d-b799-a203dbf55d82",
+        "0e9f4847-b4fd-48fa-bb68-07b5d0cfdab0",
+        "e85c702b-bd00-46bf-acb1-2f8dc71da250",
+        "190b6523-9d37-4386-84e1-bccb80e390e2",
+        "5a939060-68d8-483d-899c-f0ed72cd1efa",
+        "53b0fe9b-1520-45f7-91cb-90b8a2bf306d",
+        "fd2f7b63-7baf-44d3-b5e5-31b238ce88aa",
+        "f731084d-b3cf-46d1-a308-32d07a345c29",
+        "dda71cb9-9bc7-4bac-8c58-41477a1422c5",
+        "9022f7ed-8b97-40b7-b35b-00238db9708a",
+        "b7a6fe88-005e-45c5-935c-787b4e5c0393"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Monkey Sub",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
